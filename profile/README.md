@@ -10,9 +10,9 @@
 |---|---|---|
 | [oaip-labs](https://github.com/bsuir-cesium/oaip-labs) | Основы алгоритмизации и программирования | Delphi / Free Pascal, Python |
 | [sc-labs](https://github.com/bsuir-cesium/sc-labs) | Конструирование программного обеспечения (ч. 2) | C |
-| [csan-labs](https://github.com/bsuir-cesium/csan-labs) | Компьютерные системы и сети | — |
-| [wt-labs](https://github.com/bsuir-cesium/wt-labs) | Веб-технологии | — |
-| [ti-labs](https://github.com/bsuir-cesium/ti-labs) | Теория информации | — |
+| [csan-labs](https://github.com/bsuir-cesium/csan-labs) | Компьютерные системы и сети | Python |
+| [wt-labs](https://github.com/bsuir-cesium/wt-labs) | Веб-технологии | Python |
+| [ti-labs](https://github.com/bsuir-cesium/ti-labs) | Теория информации | HTML, JS, CSS |
 
 ### Курсовые работы
 
