@@ -28,4 +28,4 @@
 | [oaip-lectures](https://github.com/bsuir-cesium/oaip-lectures) | Конспекты лекций по ОАиП |
 | [oaip-practice-1](https://github.com/bsuir-cesium/oaip-practice-1) | Учебная практика |
 | [naval-combat](https://github.com/bsuir-cesium/naval-combat) | Морской бой |
-| [kosti-m](https://github.com/bsuir-cesium/kosti-m) | — |
+| [kosti-m](https://github.com/bsuir-cesium/kosti-m) | Нежданчик от Фадеевой на ОПИ |
